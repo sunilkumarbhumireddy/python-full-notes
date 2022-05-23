@@ -1,11 +1,11 @@
-d={'name':'venkat','number':[7777,9999]}
+d={'name':'sunilkumar','number':[7777,9999]}
 #print(type(d))
 #dic()
 #update
 #d.update({'age':25})
 #print(d)
 #add
-'''d['name']='kiran'
+'''d['name']='sunilkumar'
 print(d)'''
 '''d.pop()
 print(d)'''
